@@ -1,0 +1,24 @@
+{
+  "name": "storybook-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogvlad/storybook-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogvlad/storybook-6/issues"
+  },
+  "homepage": "https://github.com/ogvlad/storybook-6#readme",
+  "dependencies": {
+    "@storybook/cli": "6.5.16",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
